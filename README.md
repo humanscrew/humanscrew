@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning CS.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me :()=>{
-- telephoneNumber : +86-16607563874,
+- telephoneNumber : +86 16607563874,
 - wechatId : humanscrew,
 - e-mail : tibetourist@gmail.com
 - }
